@@ -1,0 +1,10 @@
+Django==5.1.2
+Markdown==3.7
+Pillow==11.0.0
+boto==2.49.0
+dj-database-url==0.4.1
+django-storages==1.14.4
+django-storages-redux==1.3.3
+gunicorn==23.0.0
+pytz==2024.2
+whitenoise==6.8.2

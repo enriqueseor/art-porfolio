@@ -1,0 +1,20 @@
+{% extends 'gallery/base.html' %} 
+{% load static %}
+{% block content %}
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="{% static 'images/sonson.jpg' %}" alt="Sonson" class="img-circle myface">
+            </div>
+            <div class="col-md-8">
+                <h2>About Me</h2>
+                <p>My friend <a href=https://github.com/enriqueseor>Enrique Seco</a> has done this website using Python and Django as well as Bootstrap and HTML/CSS. Pretty impressive, right? 
+                The source code is available on <a href=https://github.com/enriqueseor/art-porfolio>Github</a>.</p>
+                <h2>Contact me</h2>
+                <p>You can contact me by <a href="https://www.instagram.com/alvarosonson/">alvarosonson</a></p>
+            </div>
+        </div>
+    </div>
+        
+{% endblock content %}
