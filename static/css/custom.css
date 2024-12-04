@@ -1,6 +1,6 @@
-
+/* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 body {
-    padding-top: 60px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    padding-top: 60px;
 }
 
 .thumb {
@@ -86,10 +86,6 @@ p {
     margin-bottom: 40px;
 }
 
-body { 
-    background: url(/static/images/lightpaperfibers.png) repeat 0 0;
-}
-
 /* remove gradient background form carousel */
 .carousel-control.right, .carousel-control.left {
   background-image:none;
@@ -97,7 +93,6 @@ body {
 
 
 /* custom button code */
-
 .btn-custom {
   background-color: #3a0371;
   border-color: #3a0371;
