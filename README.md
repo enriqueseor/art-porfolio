@@ -1,8 +1,40 @@
 # Art Portfolio
 
 ## Overview
-This is a Django app to display my friend's [Alvaro Sonson](https://www.instagram.com/alvarosonson) artwork portfolio online.
+This project is a Django-based web application designed to showcase my friend's [Alvaro Sonson](https://www.instagram.com/alvarosonson) 
+artwork in a visually appealing and user-friendly way. This app provides a platform to display artwork, 
+share an artist's story, and engage with audiences online.
 
-![Porfolio_mainScreen](media/main_screen.png)
+![main-screen](media/main-screen)
+*Main screen showing the artwork gallery.*
 
-![Porfolio_AboutMeScreen](media/aboutme_screen.png)
+
+---
+
+## Features
+- **Artwork Gallery**: Displays all uploaded artwork in a grid layout.
+- **About Me Page**: Shares details about the artist and their creative journey.
+- **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
+- **Contact Form**: (Optional) Allows visitors to reach out directly to the artist.
+
+---
+
+## Technology Stack
+- **Backend**: Django (Python)
+- **Frontend**: HTML, CSS, JavaScript
+- **Database**: SQLite (default), with options for PostgreSQL or MySQL
+- **Hosting**: Easily deployable on platforms like Heroku or AWS
+
+![about-me-screen](media/about-me-screen)
+*About Me page highlighting the artist's story.*
+
+---
+
+## Installation
+
+Follow these steps to set up the project on your local machine:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/art-portfolio.git
+   cd art-portfolio
