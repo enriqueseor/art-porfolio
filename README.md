@@ -26,7 +26,7 @@ share an artist's story, and engage with audiences online.
 - **Database**: SQLite (default), with options for PostgreSQL or MySQL
 - **Hosting**: Easily deployable on platforms like Heroku or AWS
 
-![About Me Screen](./media/about-me-screen)
+![About Me Screen](./media/about-me-screen.png)
 
 *About Me page highlighting the artist's story.*
 
