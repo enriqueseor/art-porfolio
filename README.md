@@ -42,5 +42,5 @@ Follow these steps to set up the project on your local machine:
    cd art-portfolio
 
 2. **Run the web application on your local machine**:
-    ``bash
+    ```bash
     python manage.py runserver
