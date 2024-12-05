@@ -40,3 +40,7 @@ Follow these steps to set up the project on your local machine:
    ```bash
    git clone https://github.com/enriqueseor/art-portfolio.git
    cd art-portfolio
+
+2. **Run the web application on your local machine**:
+    ``bash
+    python manage.py runserver
