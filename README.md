@@ -5,7 +5,8 @@ This project is a Django-based web application designed to showcase my friend's 
 artwork in a visually appealing and user-friendly way. This app provides a platform to display artwork, 
 share an artist's story, and engage with audiences online.
 
-![main-screen](media/main-screen)
+![Main Screen](./media/main-screen.png)
+
 *Main screen showing the artwork gallery.*
 
 
@@ -25,7 +26,8 @@ share an artist's story, and engage with audiences online.
 - **Database**: SQLite (default), with options for PostgreSQL or MySQL
 - **Hosting**: Easily deployable on platforms like Heroku or AWS
 
-![about-me-screen](media/about-me-screen)
+![About Me Screen](./media/about-me-screen)
+
 *About Me page highlighting the artist's story.*
 
 ---
